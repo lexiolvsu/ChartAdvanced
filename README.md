@@ -1,4 +1,3 @@
-# ChartAdvanced
 ## Build Instructions
 ### TUTORIAL VIDEO COMING SOON
 ---
