@@ -1,3 +1,0 @@
-[Configuration]
-opened=false
-engine=ask
